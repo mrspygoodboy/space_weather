@@ -94,4 +94,3 @@ assets/
 ## Author
 
 **Aliyan** — TAMK Mobile Applications, 2025
-Redemption Studio · aliyan@redemption.studio
